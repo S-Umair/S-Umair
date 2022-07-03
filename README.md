@@ -3,7 +3,7 @@
 
 ### About me:
 
-- 🌱 I’m currently learning [Go](https://github.com/golang)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org)
 - 💬 Ask me about: PHP, Symfony and Laravel
 - ⚡ I enjoy: using Linux
 - 🌍 I am frm: France
